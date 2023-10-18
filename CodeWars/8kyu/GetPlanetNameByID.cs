@@ -13,7 +13,7 @@ Example (Input --> Output ):
 3 --> "Earth"
 
 */
-namespace CodeWars._8kyu
+namespace CodeWars
 {
     public class GetPlanetNameByID
     {
