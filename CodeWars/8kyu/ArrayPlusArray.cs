@@ -11,7 +11,7 @@ P.S. Each array includes only integer numbers. Output is a number too.
 */
 
 
-namespace CodeWars._8kyu
+namespace CodeWars
 {
     public static class ArrayPlusArray
     {

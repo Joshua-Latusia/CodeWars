@@ -1,11 +1,11 @@
-﻿using CodeWars._8kyu;
+﻿using CodeWars;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeWarsTests._8kyu
+namespace CodeWarsTests
 {
     [TestFixture]
     public class ArrayPlusArrayTests
