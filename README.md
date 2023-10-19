@@ -5,10 +5,12 @@
 </div>
 
 <div align="center">
+  
   ![](http://hits.dwyl.com/Joshua-Latusia/CodeWars.svg)
   ![](https://flat.badgen.net/github/last-commit/Joshua-Latusia/CodeWars)
   ![image](https://www.codewars.com/users/JoshuaLatusia/badges/micro)
   ![GitHub](https://img.shields.io/github/license/Joshua-Latusia/CodeWars)
+  
 </div>
 
 ## Overview
